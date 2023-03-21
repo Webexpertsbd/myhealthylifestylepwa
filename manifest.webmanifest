@@ -1,6 +1,6 @@
 {
   "short_name": "LifeStyle",
-  "name": "Healthy Lifestyle: The Ultimate Guide to Tips and Strategies for Living Well",
+  "name": "Healthy Lifestyle",
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmVIttINe_lQkl3YEYJvviqCUY0qsSysGvxxVmLG14QTNcY5EzKkUWe3E271oqLbmt8e22iJmg44557szLJWxP5Cykhmu3f5QOwkqFDWY4bMC-52J6_GVineYk-AJ3KDEmRcoeaKd04vifjfyqe3jywbH6P_VW3U7ETRoTuHUdw9zUGOLccbLDQW_WzQ/w320-h320/android-chrome-512x512.png",
@@ -26,14 +26,14 @@
   "theme_color": "#ffffff",
   "shortcuts": [
     {
-      "name": "Healthy Lifestyle: The Ultimate Guide to Tips and Strategies for Living Well",
+      "name": "Healthy Lifestyle",
       "short_name": "LifeStyle",
       "description": "Unlock the full potential of Healthy Lifestyle with our ultimate guide! Discover the benefits, tips, and types of Healthy Lifestyle.",
       "url": "/today?source=pwa",
       "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
     },
     {
-      "name": "Healthy Lifestyle: The Ultimate Guide to Tips and Strategies for Living Well",
+      "name": "Healthy Lifestyle",
       "short_name": "LifeStyle",
       "description": "Unlock the full potential of Healthy Lifestyle with our ultimate guide! Discover the benefits, tips, and types of Healthy Lifestyle.",
       "url": "/tomorrow?source=pwa",
