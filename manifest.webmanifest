@@ -1,0 +1,58 @@
+{
+  "short_name": "LifeStyle",
+  "name": "Healthy Lifestyle: The Ultimate Guide to Tips and Strategies for Living Well",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmVIttINe_lQkl3YEYJvviqCUY0qsSysGvxxVmLG14QTNcY5EzKkUWe3E271oqLbmt8e22iJmg44557szLJWxP5Cykhmu3f5QOwkqFDWY4bMC-52J6_GVineYk-AJ3KDEmRcoeaKd04vifjfyqe3jywbH6P_VW3U7ETRoTuHUdw9zUGOLccbLDQW_WzQ/w320-h320/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLP51HyjKOBt6hDw5R4eICJkFY4298M74apUmGew3-W7EJUWMaNaBiNOKuxa675OcklL4DY_96dPELYi_BeSNGw5V2N9Px7zzJbmqVe90CnnGwsCi3LKHsgs_AUkKUSJO7PYCLLKk8vPB3G9t0LAH9_MZ-1Z-sTS_qkAX_HnBIYJJedBIpO7OyNQ7WuA/s16000/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmVIttINe_lQkl3YEYJvviqCUY0qsSysGvxxVmLG14QTNcY5EzKkUWe3E271oqLbmt8e22iJmg44557szLJWxP5Cykhmu3f5QOwkqFDWY4bMC-52J6_GVineYk-AJ3KDEmRcoeaKd04vifjfyqe3jywbH6P_VW3U7ETRoTuHUdw9zUGOLccbLDQW_WzQ/w320-h320/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "shortcuts": [
+    {
+      "name": "Healthy Lifestyle: The Ultimate Guide to Tips and Strategies for Living Well",
+      "short_name": "LifeStyle",
+      "description": "Unlock the full potential of Healthy Lifestyle with our ultimate guide! Discover the benefits, tips, and types of Healthy Lifestyle.",
+      "url": "/today?source=pwa",
+      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Healthy Lifestyle: The Ultimate Guide to Tips and Strategies for Living Well",
+      "short_name": "LifeStyle",
+      "description": "Unlock the full potential of Healthy Lifestyle with our ultimate guide! Discover the benefits, tips, and types of Healthy Lifestyle.",
+      "url": "/tomorrow?source=pwa",
+      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Unlock the full potential of Healthy Lifestyle with our ultimate guide! Discover the benefits, tips, and types of Healthy Lifestyle.",
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxh7gq2iqAoNGhxzrIKaxvyp8cLd7qc0sNiLGhUc0blNppqn_73yZSEJvVdma-0juRv3K_DV8GYQHaVvv6LI88FhudiCMNAr3YHaxGZVNZGRQ6n-yY6pS-auHy7PJ1_g_vxy17XHBXGoZ_pl_IASvTLwWLoMOfuoBvowWnvhIfdK-gXfKTdEGR0mwbFA/s16000/mobile-screenshoot.jpg",
+      "type": "image/jpg",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvk_p2I7ebzJwI2zNA80uqhLrExLhrygbJY8_ZoHlaMU4A8ioLHf2MkId6qiodJuF6j_2tSwGWkhADDHMRcHxnOkz5cNofHPBpOSNAm-e4opKlBaRNEMtyeaqEDQj2kUgiGa0G8tQeooI6ATH1jfDzg5SCJ3wgn11f58ycjKB-qfI9GF4eiJ4hPNvInw/s16000/Pc-screenshoot.jpg",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
